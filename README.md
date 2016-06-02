@@ -1,0 +1,2 @@
+# Steve_Touchscreen (WIP)
+This is a work in progress and therefore not the cleanest of code. This is a personal project. This project is to control the lights and peripherals of Steve's Camper. It uses an Arduino Uno, Adafruit Touchscreen, and custom PWM Mosfet board. The touchscreen contains buttons and slider which turn devices on and off as well as dim lights within the camper. The MOSFET board controls the power to the peripherals of the camper. Drawing on the screen is done using Adafruit's provided library.
